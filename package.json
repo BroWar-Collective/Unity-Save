@@ -1,13 +1,14 @@
 {
-  "name": "com.browar.TODO",
-  "displayName": "TODO",
+  "name": "com.browar.serialization",
+  "displayName": "Serialization",
   "version": "0.0.0",
   "unity": "2018.1",
-  "description": "TODO.",
+  "description": "General serialization/saving system for the Unity engine.",
   "keywords": [
-    "TODO",
+    "serialization",
+	"saves"
   ],
-  "category": "TODO",
+  "category": "serialization",
   "author": {
     "name": "BroWar Collective",
     "email": "browar.collective@gmail.com",
