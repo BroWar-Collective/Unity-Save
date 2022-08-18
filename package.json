@@ -1,7 +1,7 @@
 {
   "name": "com.browar.serialization",
   "displayName": "Serialization",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "unity": "2018.1",
   "description": "General serialization/saving system for the Unity engine.",
   "keywords": [
